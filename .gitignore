@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+.idea/
+.vscode/
+*.swp
+.DS_Store
+.git/
+Dockerfile.build
+.dockerignore
